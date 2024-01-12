@@ -1,0 +1,4 @@
+*.rds
+.here
+.Rhistory
+brms/fits/.DS_Store
